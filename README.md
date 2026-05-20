@@ -169,3 +169,5 @@ Used in:
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="750" height="699" alt="image" src="https://github.com/user-attachments/assets/5d34d349-2cd4-4424-8205-89a69c4d6359" />
