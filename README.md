@@ -74,7 +74,6 @@ class Derived(Base):
         super().__init__(100)
         print("Inside class Derived constructor")
 
-
 if __name__ == "__main__":
     obj = Derived()
 ```
